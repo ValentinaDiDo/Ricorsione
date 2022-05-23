@@ -35,6 +35,7 @@ public class Anagrammi {
 		}
 		
 	}
+	
 	public static void main(String[] args) {
 		Anagrammi main = new Anagrammi();
 		main.anagramma("ABCD");
